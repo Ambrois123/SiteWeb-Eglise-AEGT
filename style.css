@@ -1,0 +1,7 @@
+.carousel-item active {
+    background-color: rgb(172, 167, 167);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(/ressources/everaldo-coelho-KPaSCpklCZw-unsplash.jpg);
+}
